@@ -5,3 +5,28 @@ h1 {
 p {
   color:red;
 }
+
+#id1{
+  color:blue;
+  font-family: veranda;
+}
+
+#id2{
+  text-align: center;
+  color: red;
+}
+
+.bluev {
+  color: blue;
+  font-family: verdana;
+}
+
+.center {
+  text-align: center;
+  color:red;
+}
+
+.blue p{
+  color: blue;
+  font-family: verdana;
+}
