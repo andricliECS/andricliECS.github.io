@@ -1,19 +1,19 @@
 h1 {
-  color:blue;
+  color:yellow;
   font-family: veranda;
 }
 p {
-  color:red;
+  color:green;
 }
 
 #id1{
-  color:blue;
+  color:purple;
   font-family: veranda;
 }
 
 #id2{
   text-align: center;
-  color: red;
+  color: orange;
 }
 
 .bluev {
