@@ -35,3 +35,11 @@ function safe_tags_replace(str) {
 .bgImage{
   background-image: url("http://pre06.deviantart.net/4388/th/pre/f/2012/240/f/7/pretty_backround_by_rokku_d-d5cr7n8.jpg")
 }
+
+.tableImage th{
+  background-image: url("http://www.textures4photoshop.com/tex/thumbs/low-poly-grunge-free-texture-38.jpg")
+}
+
+.tableHeaderColor th{
+  color: white;
+}
