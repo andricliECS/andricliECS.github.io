@@ -1,0 +1,37 @@
+var tagsToReplace = {
+    '&': '&amp;',
+    '<': '&lt;',
+    '>': '&gt;'
+};
+
+function replaceTag(tag) {
+    return tagsToReplace[tag] || tag;
+}
+
+function safe_tags_replace(str) {
+    return str.replace(/[&<>]/g, replaceTag);
+}
+
+.tableStyle{
+  font-family: Monospace;
+  text-align: center;
+  border: 3px solid red;
+  color: black;
+  border-collapse: collapse;
+}
+
+.tableStyle th, td{
+    border: 3px solid red;
+}
+
+.bodyStyle{
+  font-family: Sans-Serif;
+}
+
+.bgColor{
+  background-color: powderblue;
+}
+
+.bgImage{
+  background-image: url("http://pre06.deviantart.net/4388/th/pre/f/2012/240/f/7/pretty_backround_by_rokku_d-d5cr7n8.jpg")
+}
