@@ -12,6 +12,8 @@ function safe_tags_replace(str) {
     return str.replace(/[&<>]/g, replaceTag);
 }
 
+
+
 .tableStyle{
   font-family: Monospace;
   text-align: center;
@@ -22,10 +24,16 @@ function safe_tags_replace(str) {
 
 .tableStyle th, td{
     border: 3px solid red;
+    color: black;
 }
 
 .bodyStyle{
   font-family: Sans-Serif;
+  color: black;
+}
+
+.bodyStyle p{
+  font-family: Serif;
 }
 
 .bgColor{
@@ -42,4 +50,8 @@ function safe_tags_replace(str) {
 
 .tableHeaderColor th{
   color: white;
+}
+
+.bodyBackround{
+  background-image: url("http://pre01.deviantart.net/1882/th/pre/i/2006/124/f/4/blue_grid_light_by_cyantix.jpg")
 }
