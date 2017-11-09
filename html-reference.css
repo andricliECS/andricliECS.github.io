@@ -1,41 +1,68 @@
+/*
+This is the style for the table
+*/
 .tableStyle{
   font-family: Monospace;
   text-align: center;
-  border: 3px solid red;
+  border: 3px solid blue;
   color: black;
   border-collapse: collapse;
 }
-
+/*
+This is the style for the table rows
+*/
 .tableStyle th, td{
-    border: 3px solid red;
+    border: 3px solid blue;
     color: black;
 }
-
+/*
+This is the font style for the body
+*/
 .bodyStyle{
   font-family: Sans-Serif;
   color: black;
 }
-
+/*
+This is the font style for the body paragraph
+*/
 .bodyStyle p{
   font-family: Serif;
 }
-
+/*
+This is the backround color
+*/
 .bgColor{
   background-color: powderblue;
 }
-
+/*
+This is the color for the table
+*/
 .bgImage{
-  background-image: url("http://pre06.deviantart.net/4388/th/pre/f/2012/240/f/7/pretty_backround_by_rokku_d-d5cr7n8.jpg")
+  background-color: white;
 }
-
+/*
+This is the image for the top header table row
+*/
 .tableImage th{
-  background-image: url("http://www.textures4photoshop.com/tex/thumbs/low-poly-grunge-free-texture-38.jpg")
+  background-image: url("https://www.123freevectors.com/wp-content/cache/thumb/10231-blue-purple-low-poly-background.jpg")
 }
-
+/*
+This is the font color for the table header
+*/
 .tableHeaderColor th{
   color: white;
 }
+/*
 
-.bodyBackround{
-  background-image: url("http://pre01.deviantart.net/1882/th/pre/i/2006/124/f/4/blue_grid_light_by_cyantix.jpg")
+/*
+This is the style for the header 1
+*/
+h1 {
+  color: blue;
+}
+/*
+This is the style for the header 2
+*/
+h2 {
+  text-align: center;
 }
