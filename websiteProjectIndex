@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Website Project Andric Li</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="layoutc3.css">
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body>
+
+<div class="header">
+  <h1>Type of Apple Devices</h1>
+</div>
+
+<div class="topnav">
+  <a class="active" href="websiteProjectIndex.html">Home</a>
+  <a href="page1.html">MacBook</a>
+  <a href="page2.html">iMac</a>
+  <a href="page3.html">iPhone</a>
+  <a href="page4.html">iPad</a>
+</div>
+
+<div class="row content">
+  
+  <div class="column middle">
+    <h2>Apple</h2>
+    <p>The apple in this website is not a fruit, instead this Apple is a multimillion dollar company that is headquatered in Coupertino, California. Apple designs and sells electronics and computer software. In this website, I will talk about Apple devices and their history.</p>
+  </div>
+  <div class="column side">
+     <img src="http://andricliECS.github.io/Image/appleLogo.png">
+  </div>
+  
+  <div class="column whole">
+    
+  </div>
+  
+  <div class="column oneThirds">
+    <h2 class="blankText">Side</h2>
+     <img src="http://andricliECS.github.io/Image/appleEvolutionLogo.jpg">
+     <img src="https://andricliECS.github.io/Image/coolPicture.jpg">
+
+  </div>
+  
+<div class="column twoThirds">
+  <h2>History</h2>
+<ul>
+  <li>Apple was established on April 1st, 1976 by Steve Jobs.</li>
+  <li>In 1984, Apple launched the Macintosh, the first personal computer to be sold without a programming language. The Macintosh was the watershed for Apple's success.</li>
+  <li>The first version of the iMac was introduced in 1998.</li>
+  <li>On October 23, 2001, Apple introduced the iPod digital music player.</li>
+  <li>At Macworld Expo on January 9, 2007, Steve Jobs announced the iPhone.</li>
+  <li>The iPhone led to the launch of the App Store which let third party companies sell their applications.</li>
+  <li>In 2006, apple realeased a laptop called the Macbook.</li>
+  <li>On January 27, 2010, Apple unveiled a large screen, tablet-like media device known as the iPad.</li>
+</ul> 
+</div>
+</div>
+
+<div class="footer">
+  <p>I used these links for ressearch</p>
+  <ul>
+    <li><a href="https://www.wikipedia.org">Wikipedia</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Apple_Inc.">Wikipedia Apple Inc</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/MacBook">Wikipedia MacBook</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/IMac">Wikipedia iMac</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/IPhone">Wikipedia iPhone</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/IPad">Wikipedia iPad</a></li>
+  </ul>
+</div>
+  
+</body>
+</html>
