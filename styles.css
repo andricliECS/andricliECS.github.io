@@ -1,5 +1,5 @@
 .content {
-  background-color:#f7e6ff;
+  background-color:#BCD1FF;
 }
 
 .content p {
@@ -9,6 +9,7 @@
 
 h1 {
   font-size:45pt;
+  color: black;
 }
 
 h2 {
@@ -37,8 +38,12 @@ img {
   margin-top: 100px;
 }
 
+.meh h1 {
+  color: #D0D0D0;
+}
+
 .blankText{
-  color:#f7e6ff
+  color:#BCD1FF
 }
 
 .tableStyle{
