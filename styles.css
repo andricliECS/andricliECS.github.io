@@ -1,0 +1,59 @@
+.content {
+  background-color:#f7e6ff;
+}
+
+.content p {
+  color:black;
+  font-size:18pt;
+}
+
+h1 {
+  font-size:45pt;
+}
+
+h2 {
+  font-size:30pt;
+}
+
+li {
+  color:black;
+  font-size:16pt;
+  font-family: Comic Sans MS
+}
+
+img {
+  width:100%;
+}
+
+.floatRight{
+  float: right;
+}
+
+.floatDown img {
+  margin-top: 70px;
+}
+
+.floatDownMore img {
+  margin-top: 100px;
+}
+
+.blankText{
+  color:#f7e6ff
+}
+
+.tableStyle{
+  font-family: Monospace;
+  text-align: center;
+  border: 3px solid blue;
+  color: black;
+  border-collapse: collapse;
+  font-size: 18px;
+}
+/*
+This is the style for the table rows
+*/
+.tableStyle th, td{
+    border: 3px solid blue;
+    color: black;
+    padding: 5px;
+}
